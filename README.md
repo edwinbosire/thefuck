@@ -113,7 +113,7 @@ alias fuck='$(thefuck $(fc -ln -1))'
 # You can use whatever you want as an alias, like for mondays:
 alias FUCK='fuck'
 ```
-
+Reload your .bash_profile with `source ~/.bash_profile` or if you saving keystrokes `. ~/.bash_profile` 
 Or in `config.fish`:
 
 ```fish
